@@ -58,5 +58,11 @@ export const robots = [
     name: 'Clementina DuBuque',
     username: 'Moriah.Stanton',
     email: 'Rey.Padberg@karina.biz'
+  },
+  {
+    id: 10,
+    name: 'CursorAI',
+    username: 'CursorAI',
+    email: 'cursor@ai.com '
   }
 ];

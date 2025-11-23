@@ -100,5 +100,10 @@ export const robots = [
     id: 13,
     name: 'BLUE ROBOT',
     email: 'blue@bot.com '
+  },
+  {
+    id: 14,
+    name: 'FIX BOT',
+    email: 'fix@me.com'
   }
 ];
